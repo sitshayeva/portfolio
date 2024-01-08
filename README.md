@@ -1,13 +1,3 @@
-# Lenara Sitshayeva, Ph.D.
-              
-- Experienced IT professional with over 10 years of industry expertise, progressing from a database manager to a business analyst and eventually transitioning into data analytics. 
-- Successfully served as a Business Intelligence Specialist and Data Engineer. 
-- As Data Analyst in Descriptive and Predictive Analytics, consistently demonstrated a keen interest in Prescriptive Analytics and Optimisation. 
-- Committed to continuous learning and skill development, actively seeking new knowledge and techniques. 
-- Proficient in SQL, Python, Tableau, and Power BI, adept at extracting and analysing complex data sets, constructing data models, and generating valuable insights. 
-- Dedicated to enhancing my skill set, with a recent focus on Data Science. 
-- Currently seeking opportunities to apply my expertise, contribute to business growth, and make a positive impact in a supportive and challenging environment.
-
 <div style="background-color: #FFC107; padding: 20px;">
   <h1 style="color: #FFF;">CONTACTS</h1>
 </div>
