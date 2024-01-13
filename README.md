@@ -147,6 +147,11 @@
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/4)
 
+## Data Transformation Pipeline with Cloud Dataprep (Alteryx)
+![Project Image](images/40.png)<br>
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/40)
+
 
 ## Correlation in Python
 ![Project Image](images/20.png)<br>
