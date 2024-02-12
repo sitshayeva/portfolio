@@ -3,6 +3,12 @@
   <h1 style="color: #FFF;"> DATA PROJECTS </h1>
 </div>
 
+## ITunes Podcast Reviews Dashboards Tableau
+![Project Image](images/30.png)
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/30)
+
+
 ## Customer K-means clustering in Python
 ![Project Image](images/30.png)
 
