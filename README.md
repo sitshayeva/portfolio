@@ -3,7 +3,7 @@
   <h1 style="color: #FFF;"> DATA PROJECTS </h1>
 </div>
 
-## ITunes Podcast Reviews Dashboards Tableau
+## iTunes Podcast Reviews Dashboards Tableau
 ![Project Image](images/41.png)
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/41)
