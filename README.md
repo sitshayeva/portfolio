@@ -1,3 +1,6 @@
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="lenara-sitshayeva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ua.linkedin.com/in/lenara-sitshayeva?trk=profile-badge">Lenara S.</a></div>
+              
+
                                              
 <div style="background-color: #FFC107; padding: 20px;">
   <h1 style="color: #FFF;"> DATA PROJECTS </h1>
