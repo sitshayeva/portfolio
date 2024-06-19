@@ -3,6 +3,8 @@
 </div>
 
 <table>
+</td>
+</tr>
 <tr>
 <td>
 
@@ -31,6 +33,8 @@ Technologies Used: Python, K-means clustering algorithm.
 ![Project Image](images/30.png)
 
 </td>
+</tr>
+<tr>
 <td>
 
 ### Machine Learning: Decision Tree with KNIME
@@ -40,8 +44,6 @@ Technologies Used: KNIME.
 ![Project Image](images/31_1.png) ![Project Image](images/31_2.png)
 
 </td>
-</tr>
-<tr>
 <td>
 
 ### NLP Challenge: IMDB Dataset of 50K Movie Reviews to perform Sentiment Analysis
