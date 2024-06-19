@@ -12,7 +12,7 @@ Technologies Used: PySpark.
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/42)
 ![Project Image](images/42.png)
 
-<tr>
+<td>
 <td>
 
 ### iTunes Podcast Reviews Dashboards Tableau
