@@ -6,6 +6,15 @@
 <tr>
 <td>
 
+### PySpark Diabetes Prediction ML Project
+Overview: Diabetes Prediction ML Project using PySpark.
+Technologies Used: PySpark.
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/42)
+![Project Image](images/42.png)
+
+<tr>
+<td>
+
 ### iTunes Podcast Reviews Dashboards Tableau
 Overview: Visualization of iTunes podcast reviews using interactive dashboards.
 Technologies Used: Tableau.
