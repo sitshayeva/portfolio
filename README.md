@@ -33,7 +33,9 @@ Technologies Used: Tableau.
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/41)
 ![Project Image](images/41.png)
 
-</td>
+<td>
+</tr>
+<tr>
 <td>
 
 ### Customer K-means clustering in Python
@@ -43,9 +45,7 @@ Technologies Used: Python, K-means clustering algorithm.
 ![Project Image](images/30.png)
 
 </td>
-</tr>
-<tr>
-<td>
+
 
 ### Machine Learning: Decision Tree with KNIME
 Overview: Using decision trees for predictive modeling in KNIME.
