@@ -17,7 +17,6 @@ Overview: Market Basket Analysis project based on "The Bread Basket" dataset to 
 ![Project Image](images/43.png)
 
 <td>
-<td>
 
 
 ### PySpark Diabetes Prediction ML Project
@@ -26,7 +25,6 @@ Technologies Used: PySpark.
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/42)
 ![Project Image](images/42.png)
 
-<td>
 <td>
 
 ### iTunes Podcast Reviews Dashboards Tableau
