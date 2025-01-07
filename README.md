@@ -8,6 +8,14 @@
 <tr>
 <td>
 
+### Market Basket Analysis 
+Overview: Market Basket Analysis project based on "The Bread Basket" dataset to identify purchasing patterns and generate actionable insights using association rules.
+
+**Technologies Used**: Python, Pandas, Seaborn, mlxtend, Pyvis.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/43)  
+![Project Image](images/43.png)
+
 ### PySpark Diabetes Prediction ML Project
 Overview: Diabetes Prediction ML Project using PySpark.
 Technologies Used: PySpark.
