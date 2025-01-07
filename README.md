@@ -16,6 +16,10 @@ Overview: Market Basket Analysis project based on "The Bread Basket" dataset to 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/43)  
 ![Project Image](images/43.png)
 
+<td>
+<td>
+
+
 ### PySpark Diabetes Prediction ML Project
 Overview: Diabetes Prediction ML Project using PySpark.
 Technologies Used: PySpark.
