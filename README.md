@@ -1,81 +1,62 @@
 ## 🌟 Featured Projects
 
-### 📦 Market Basket Analysis
-
-![Market Basket Analysis](images/43.png)
-
-**Overview:** Analysis using the "Bread Basket" dataset to uncover purchasing patterns.
-
-**Tech Stack:** Python, Pandas, Seaborn, mlxtend, Pyvis  
-[🔗 View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/43)
-
----
-
-### 🔥 PySpark Diabetes Prediction ML Project
-
-![Diabetes Prediction](images/42.png)
-
-**Overview:** Built a predictive model for diabetes detection using PySpark.
-
-**Tech Stack:** PySpark  
-[🔗 View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/42)
-
----
-
-### 📊 iTunes Podcast Reviews Dashboard (Tableau)
-
-![iTunes Dashboard](images/41.png)
-
-**Overview:** Interactive Tableau dashboards to analyze podcast reviews.
-
-**Tech Stack:** Tableau  
-[🔗 View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/41)
+<table>
+  <tr>
+    <td>
+      <h3>📦 Market Basket Analysis</h3>
+      <img src="images/43.png" width="100%">
+      <p>**Overview:** Analysis using the "Bread Basket" dataset to uncover purchasing patterns.<br>
+      **Tech Stack:** Python, Pandas, Seaborn, mlxtend, Pyvis</p>
+      <a href="https://github.com/sitshayeva/portfolio/tree/main/projects/43">🔗 View Project</a>
+    </td>
+    <td>
+      <h3>🔥 PySpark Diabetes Prediction ML Project</h3>
+      <img src="images/42.png" width="100%">
+      <p>**Overview:** Built a predictive model for diabetes detection using PySpark.<br>
+      **Tech Stack:** PySpark</p>
+      <a href="https://github.com/sitshayeva/portfolio/tree/main/projects/42">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 iTunes Podcast Reviews Dashboard (Tableau)</h3>
+      <img src="images/41.png" width="100%">
+      <p>**Overview:** Interactive Tableau dashboards to analyze podcast reviews.<br>
+      **Tech Stack:** Tableau</p>
+      <a href="https://github.com/sitshayeva/portfolio/tree/main/projects/41">🔗 View Project</a>
+    </td>
+    <td>
+      <h3>📚 Book Recommendation System (KNN)</h3>
+      <img src="images/37.png" width="100%">
+      <p>**Overview:** Created a collaborative filtering system using K-Nearest Neighbors.<br>
+      **Tech Stack:** Python, KNN</p>
+      <a href="https://github.com/sitshayeva/portfolio/tree/main/projects/37">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🤖 Machine Learning Projects
 
-### 📚 Book Recommendation System (KNN)
-
-![Book Recommendation](images/37.png)
-
-**Overview:** Created a collaborative filtering system using K-Nearest Neighbors.
-
-**Tech Stack:** Python, KNN  
-[🔗 View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/37)
-
----
-
-### 🧠 NLP Sentiment Analysis on IMDB Dataset
-
-![IMDB NLP](images/32.png)
-
-**Overview:** Sentiment analysis of 50K IMDB reviews using NLP.
-
-**Tech Stack:** Python, NLP  
-[🔗 View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/32)
-
----
-
-## 📈 Data Visualization Projects
-
-### 📉 Streamlit Dynamic Filters
-
-![Streamlit Filters](images/19_1.png)
-
-**Overview:** Created a dynamic filtering system with Streamlit.
-
-**Tech Stack:** Python, Streamlit  
-[🔗 View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/19)
-
-### 💼 British Airways Customer Review Sentiment Analysis
-
-![British Airways Analysis](images/24_1.png)
-
-**Overview:** Extracted and analyzed customer reviews using web scraping and sentiment analysis.
-
-**Tech Stack:** Python, Web Scraping, NLP  
-[🔗 View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/24)
+<table>
+  <tr>
+    <td>
+      <h3>🧠 NLP Sentiment Analysis on IMDB Dataset</h3>
+      <img src="images/32.png" width="100%">
+      <p>**Overview:** Sentiment analysis of 50K IMDB reviews using NLP.<br>
+      **Tech Stack:** Python, NLP</p>
+      <a href="https://github.com/sitshayeva/portfolio/tree/main/projects/32">🔗 View Project</a>
+    </td>
+    <td>
+      <h3>📈 Linear Regression Health Costs Calculator</h3>
+      <img src="images/38.png" width="100%">
+      <p>**Overview:** Health cost prediction model using linear regression.<br>
+      **Tech Stack:** Python, Linear Regression</p>
+      <a href="https://github.com/sitshayeva/portfolio/tree/main/projects/38">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
