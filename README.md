@@ -18,6 +18,18 @@ Overview: Analyze AirBnB listings in Paris to determine the impact of recent reg
 <tr>
 <td>
 
+### Restaurant Order Analysis
+Overview: Analyze order data to identify the most and least popular menu items and types of cuisine
+
+**Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/45)  
+![Project Image](images/45.png)
+  
+  
+<tr>
+<td>
+
 ### Market Basket Analysis
 Overview: Market Basket Analysis project based on "The Bread Basket" dataset to identify purchasing patterns and generate actionable insights using association rules.
 
