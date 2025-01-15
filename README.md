@@ -51,9 +51,6 @@ Overview: Create an interactive dashboard showcasing 250 years of CO2 emissions 
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/44)  
 ![Project Image](images/50.png)
-  
-</td>
-<td>
 
 <tr>
 <td>
