@@ -6,6 +6,64 @@
 <tr>
 <td>
 
+### Toy Store KPI Report
+Overview: Build a simple, interactive KPI report to track key metrics and explore high-level trends
+
+**Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/47)  
+![Project Image](images/47.png)
+   
+</td>
+<td>
+
+<tr>
+<td>
+
+### LEGO Set Explorer
+
+Overview: Build a custom, interactive tool to help users discover the perfect LEGO set
+
+**Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/48)  
+![Project Image](images/48.png)
+  
+</td>
+<td>
+
+<tr>
+<td>
+
+### Coffee Shop Dashboard
+Overview: Build an interactive dashboard to explore and analyze coffee shop sales
+
+
+**Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/49)  
+![Project Image](images/49.png)
+  
+<tr>
+<td>
+
+<tr>
+<td>
+
+### Global CO2 Emissions
+Overview: Create an interactive dashboard showcasing 250 years of CO2 emissions data
+
+**Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/44)  
+![Project Image](images/50.png)
+  
+<tr>
+<td>
+
+<tr>
+<td>
+
 ### AirBnB Listing Analysis
 Overview: Analyze AirBnB listings in Paris to determine the impact of recent regulations
 
