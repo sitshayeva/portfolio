@@ -32,9 +32,6 @@ Overview: Build a custom, interactive tool to help users discover the perfect LE
 </td>
 <td>
 
-<tr>
-<td>
-
 ### Coffee Shop Dashboard
 Overview: Build an interactive dashboard to explore and analyze coffee shop sales
 
@@ -44,10 +41,7 @@ Overview: Build an interactive dashboard to explore and analyze coffee shop sale
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/49)  
 ![Project Image](images/49.png)
   
-<tr>
-<td>
-
-<tr>
+</td>
 <td>
 
 ### Global CO2 Emissions
@@ -58,11 +52,12 @@ Overview: Create an interactive dashboard showcasing 250 years of CO2 emissions 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/44)  
 ![Project Image](images/50.png)
   
-<tr>
+</td>
 <td>
 
 <tr>
 <td>
+
 
 ### AirBnB Listing Analysis
 Overview: Analyze AirBnB listings in Paris to determine the impact of recent regulations
