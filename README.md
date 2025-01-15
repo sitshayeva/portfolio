@@ -15,7 +15,7 @@ Overview: Analyze AirBnB listings in Paris to determine the impact of recent reg
 ![Project Image](images/44.png)
   
   
-<tr>
+</td>
 <td>
 
 ### Restaurant Order Analysis
@@ -27,9 +27,19 @@ Overview: Analyze order data to identify the most and least popular menu items a
 ![Project Image](images/45.png)
   
   
-<tr>
+</td>
 <td>
 
+### CRM Sales Dashboard
+Overview: Build an interactive dashboard for Sales Managers to track their team's quarterly performance
+**Technologies Used**: Python, Pandas, Seaborn.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/46)  
+![Project Image](images/46.png)
+
+<tr>
+<td>
+  
 ### Market Basket Analysis
 Overview: Market Basket Analysis project based on "The Bread Basket" dataset to identify purchasing patterns and generate actionable insights using association rules.
 
