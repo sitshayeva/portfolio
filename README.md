@@ -6,6 +6,18 @@
 <tr>
 <td>
 
+### AirBnB Listing Analysis
+Overview: Analyze AirBnB listings in Paris to determine the impact of recent regulations
+
+**Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/44)  
+![Project Image](images/44.png)
+  
+  
+<tr>
+<td>
+
 ### Market Basket Analysis
 Overview: Market Basket Analysis project based on "The Bread Basket" dataset to identify purchasing patterns and generate actionable insights using association rules.
 
