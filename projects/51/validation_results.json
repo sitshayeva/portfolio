@@ -1,0 +1,534 @@
+{
+    "success": false,
+    "results": [
+        {
+            "success": true,
+            "expectation_config": {
+                "type": "expect_column_values_to_not_be_null",
+                "kwargs": {
+                    "batch_id": "online_retail-online_retail_asset",
+                    "column": "InvoiceNo"
+                },
+                "meta": {},
+                "id": "82cd1d61-d8ff-4a0b-9ebf-7fb8d1b23290"
+            },
+            "result": {
+                "element_count": 541909,
+                "unexpected_count": 0,
+                "unexpected_percent": 0.0,
+                "partial_unexpected_list": [],
+                "partial_unexpected_counts": [],
+                "partial_unexpected_index_list": []
+            },
+            "meta": {},
+            "exception_info": {
+                "raised_exception": false,
+                "exception_traceback": null,
+                "exception_message": null
+            }
+        },
+        {
+            "success": true,
+            "expectation_config": {
+                "type": "expect_column_values_to_not_be_null",
+                "kwargs": {
+                    "batch_id": "online_retail-online_retail_asset",
+                    "column": "StockCode"
+                },
+                "meta": {},
+                "id": "a8b6264f-2680-4667-8642-6177f1cee19d"
+            },
+            "result": {
+                "element_count": 541909,
+                "unexpected_count": 0,
+                "unexpected_percent": 0.0,
+                "partial_unexpected_list": [],
+                "partial_unexpected_counts": [],
+                "partial_unexpected_index_list": []
+            },
+            "meta": {},
+            "exception_info": {
+                "raised_exception": false,
+                "exception_traceback": null,
+                "exception_message": null
+            }
+        },
+        {
+            "success": false,
+            "expectation_config": {
+                "type": "expect_column_values_to_not_be_null",
+                "kwargs": {
+                    "batch_id": "online_retail-online_retail_asset",
+                    "column": "Description"
+                },
+                "meta": {},
+                "id": "280c24e7-5417-4888-8116-1a2a3392fdc4"
+            },
+            "result": {
+                "element_count": 541909,
+                "unexpected_count": 1454,
+                "unexpected_percent": 0.2683107311375157,
+                "partial_unexpected_list": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                "partial_unexpected_counts": [
+                    {
+                        "value": null,
+                        "count": 20
+                    }
+                ],
+                "partial_unexpected_index_list": [
+                    622,
+                    1970,
+                    1971,
+                    1972,
+                    1987,
+                    1988,
+                    2024,
+                    2025,
+                    2026,
+                    2406,
+                    4347,
+                    4348,
+                    7187,
+                    7188,
+                    7189,
+                    7190,
+                    7191,
+                    7192,
+                    7193,
+                    7194
+                ]
+            },
+            "meta": {},
+            "exception_info": {
+                "raised_exception": false,
+                "exception_traceback": null,
+                "exception_message": null
+            }
+        },
+        {
+            "success": true,
+            "expectation_config": {
+                "type": "expect_column_values_to_be_of_type",
+                "kwargs": {
+                    "batch_id": "online_retail-online_retail_asset",
+                    "column": "Quantity",
+                    "type_": "int"
+                },
+                "meta": {},
+                "id": "cb18ed5a-cc2f-4953-9766-a0a6b963e519"
+            },
+            "result": {
+                "observed_value": "int64"
+            },
+            "meta": {},
+            "exception_info": {
+                "raised_exception": false,
+                "exception_traceback": null,
+                "exception_message": null
+            }
+        },
+        {
+            "success": false,
+            "expectation_config": {
+                "type": "expect_column_values_to_be_between",
+                "kwargs": {
+                    "batch_id": "online_retail-online_retail_asset",
+                    "column": "Quantity",
+                    "min_value": 1.0,
+                    "max_value": 1000.0
+                },
+                "meta": {},
+                "id": "dcfda779-3048-49a3-bca0-dfab32f62a7d"
+            },
+            "result": {
+                "element_count": 541909,
+                "unexpected_count": 10740,
+                "unexpected_percent": 1.9818825669992564,
+                "partial_unexpected_list": [
+                    -1,
+                    -1,
+                    -12,
+                    -24,
+                    -24,
+                    -24,
+                    -12,
+                    -12,
+                    -24,
+                    -6,
+                    -1,
+                    -2,
+                    -4,
+                    -5,
+                    -1,
+                    -7,
+                    -1,
+                    -2,
+                    -1,
+                    -2
+                ],
+                "missing_count": 0,
+                "missing_percent": 0.0,
+                "unexpected_percent_total": 1.9818825669992564,
+                "unexpected_percent_nonmissing": 1.9818825669992564,
+                "partial_unexpected_counts": [
+                    {
+                        "value": -1,
+                        "count": 6
+                    },
+                    {
+                        "value": -24,
+                        "count": 4
+                    },
+                    {
+                        "value": -12,
+                        "count": 3
+                    },
+                    {
+                        "value": -2,
+                        "count": 3
+                    },
+                    {
+                        "value": -7,
+                        "count": 1
+                    },
+                    {
+                        "value": -6,
+                        "count": 1
+                    },
+                    {
+                        "value": -5,
+                        "count": 1
+                    },
+                    {
+                        "value": -4,
+                        "count": 1
+                    }
+                ],
+                "partial_unexpected_index_list": [
+                    141,
+                    154,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    939,
+                    1441,
+                    1442,
+                    1973,
+                    1974,
+                    1975,
+                    1976,
+                    1977,
+                    1978,
+                    1979,
+                    1980
+                ]
+            },
+            "meta": {},
+            "exception_info": {
+                "raised_exception": false,
+                "exception_traceback": null,
+                "exception_message": null
+            }
+        },
+        {
+            "success": true,
+            "expectation_config": {
+                "type": "expect_column_values_to_be_of_type",
+                "kwargs": {
+                    "batch_id": "online_retail-online_retail_asset",
+                    "column": "UnitPrice",
+                    "type_": "float"
+                },
+                "meta": {},
+                "id": "24d494cc-500e-493c-96bd-a60265f28598"
+            },
+            "result": {
+                "observed_value": "float64"
+            },
+            "meta": {},
+            "exception_info": {
+                "raised_exception": false,
+                "exception_traceback": null,
+                "exception_message": null
+            }
+        },
+        {
+            "success": false,
+            "expectation_config": {
+                "type": "expect_column_values_to_be_between",
+                "kwargs": {
+                    "batch_id": "online_retail-online_retail_asset",
+                    "column": "UnitPrice",
+                    "min_value": 0.0,
+                    "max_value": 1000.0
+                },
+                "meta": {},
+                "id": "337b36d1-4bb7-45fc-acf0-a85d2bc4f772"
+            },
+            "result": {
+                "element_count": 541909,
+                "unexpected_count": 122,
+                "unexpected_percent": 0.022513004951015762,
+                "partial_unexpected_list": [
+                    13541.33,
+                    13541.33,
+                    13474.79,
+                    5519.25,
+                    13541.33,
+                    6706.71,
+                    1130.9,
+                    1298.4,
+                    16888.02,
+                    16453.71,
+                    1126.0,
+                    1283.8,
+                    1050.15,
+                    1715.85,
+                    1435.79,
+                    5575.28,
+                    5258.77,
+                    1687.17,
+                    1687.17,
+                    1687.17
+                ],
+                "missing_count": 0,
+                "missing_percent": 0.0,
+                "unexpected_percent_total": 0.022513004951015762,
+                "unexpected_percent_nonmissing": 0.022513004951015762,
+                "partial_unexpected_counts": [
+                    {
+                        "value": 1687.17,
+                        "count": 3
+                    },
+                    {
+                        "value": 13541.33,
+                        "count": 3
+                    },
+                    {
+                        "value": 1050.15,
+                        "count": 1
+                    },
+                    {
+                        "value": 1126.0,
+                        "count": 1
+                    },
+                    {
+                        "value": 1130.9,
+                        "count": 1
+                    },
+                    {
+                        "value": 1283.8,
+                        "count": 1
+                    },
+                    {
+                        "value": 1298.4,
+                        "count": 1
+                    },
+                    {
+                        "value": 1435.79,
+                        "count": 1
+                    },
+                    {
+                        "value": 1715.85,
+                        "count": 1
+                    },
+                    {
+                        "value": 5258.77,
+                        "count": 1
+                    },
+                    {
+                        "value": 5519.25,
+                        "count": 1
+                    },
+                    {
+                        "value": 5575.28,
+                        "count": 1
+                    },
+                    {
+                        "value": 6706.71,
+                        "count": 1
+                    },
+                    {
+                        "value": 13474.79,
+                        "count": 1
+                    },
+                    {
+                        "value": 16453.71,
+                        "count": 1
+                    },
+                    {
+                        "value": 16888.02,
+                        "count": 1
+                    }
+                ],
+                "partial_unexpected_index_list": [
+                    15016,
+                    15017,
+                    16232,
+                    16313,
+                    16356,
+                    16357,
+                    28994,
+                    41448,
+                    43702,
+                    43703,
+                    45622,
+                    64570,
+                    64573,
+                    73446,
+                    90557,
+                    96844,
+                    96845,
+                    117052,
+                    117053,
+                    117054
+                ]
+            },
+            "meta": {},
+            "exception_info": {
+                "raised_exception": false,
+                "exception_traceback": null,
+                "exception_message": null
+            }
+        },
+        {
+            "success": false,
+            "expectation_config": {
+                "type": "expect_column_values_to_be_in_set",
+                "kwargs": {
+                    "batch_id": "online_retail-online_retail_asset",
+                    "column": "Country",
+                    "value_set": [
+                        "United Kingdom",
+                        "Germany",
+                        "France",
+                        "Netherlands"
+                    ]
+                },
+                "meta": {},
+                "id": "767ebf15-7e07-4cc6-80a8-7bc2cb06c199"
+            },
+            "result": {
+                "element_count": 541909,
+                "unexpected_count": 26008,
+                "unexpected_percent": 4.799329776770639,
+                "partial_unexpected_list": [
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Australia",
+                    "Norway",
+                    "Norway",
+                    "Norway",
+                    "Norway",
+                    "Norway",
+                    "Norway"
+                ],
+                "missing_count": 0,
+                "missing_percent": 0.0,
+                "unexpected_percent_total": 4.799329776770639,
+                "unexpected_percent_nonmissing": 4.799329776770639,
+                "partial_unexpected_counts": [
+                    {
+                        "value": "Australia",
+                        "count": 14
+                    },
+                    {
+                        "value": "Norway",
+                        "count": 6
+                    }
+                ],
+                "partial_unexpected_index_list": [
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204,
+                    205,
+                    206,
+                    207,
+                    208,
+                    209,
+                    210,
+                    1236,
+                    1237,
+                    1238,
+                    1239,
+                    1240,
+                    1241
+                ]
+            },
+            "meta": {},
+            "exception_info": {
+                "raised_exception": false,
+                "exception_traceback": null,
+                "exception_message": null
+            }
+        }
+    ],
+    "suite_name": "online_retail_suite",
+    "suite_parameters": {},
+    "statistics": {
+        "evaluated_expectations": 8,
+        "successful_expectations": 4,
+        "unsuccessful_expectations": 4,
+        "success_percent": 50.0
+    },
+    "meta": {
+        "great_expectations_version": "1.3.2",
+        "batch_spec": {
+            "batch_data": "PandasDataFrame"
+        },
+        "batch_markers": {
+            "ge_load_time": "20250121T162620.896255Z",
+            "pandas_data_fingerprint": "e42232bfa41da96478cc2702f846af0a"
+        },
+        "active_batch_definition": {
+            "datasource_name": "online_retail",
+            "data_connector_name": "fluent",
+            "data_asset_name": "online_retail_asset",
+            "batch_identifiers": {
+                "dataframe": "<DATAFRAME>"
+            }
+        }
+    },
+    "id": null
+}
