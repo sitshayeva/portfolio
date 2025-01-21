@@ -24,9 +24,18 @@ Overview: Build a simple, interactive KPI report to track key metrics and explor
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/47)  
 ![Project Image](images/47.png)
-   
+
 </td>
 <td>
+
+### Global CO2 Emissions Interactive Dashboard
+
+Overview: Create an interactive dashboard exploring CO2 emissions, energy consumption, and carbon intensity trends globally and by country over 250 years.
+
+**Technologies Used**: Python, Pandas, PyGWalker, Matplotlib.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/52)  
+![Project Image](images/52.png)
 
 <tr>
 <td>
@@ -60,7 +69,7 @@ Overview: Create an interactive dashboard showcasing 250 years of CO2 emissions 
 
 **Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
 
-[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/44)  
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/50)  
 ![Project Image](images/50.png)
 
 <tr>
