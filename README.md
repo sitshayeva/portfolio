@@ -6,6 +6,17 @@
 <tr>
 <td>
 
+### UK Online Retail Data Quality Validation Project (GX)
+Overview: Ensure the dataset's accuracy, consistency, and reliability by applying a series of data validation checks using Great Expectations
+
+**Technologies Used**: Python, Pandas, Great Expectations.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/51)  
+![Project Image](images/51.png)
+  
+</td>
+<td>
+
 ### Toy Store KPI Report
 Overview: Build a simple, interactive KPI report to track key metrics and explore high-level trends
 
