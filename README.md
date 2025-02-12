@@ -27,7 +27,7 @@ Overview: Analyze historical EUR exchange rates from 1999 to 2021, focusing on k
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/54)  
 ![Project Image](images/54.png)
 
-</td>
+<tr>
 <td>
 
 ### UK Online Retail Data Quality Validation Project (GX)
