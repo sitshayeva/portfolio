@@ -7,9 +7,9 @@
 </td>
 <td>
 
-### Finding Heavy Traffic Indicators on I-94
+### Indicators of Heavy Traffic on I-94: Enhanced Analysis with Interactive Dashboard
 
-Overview: Determine a indicators of heavy traffic on I-94
+Overview: Determine an indicators of heavy traffic on I-94
 
 **Technologies Used**: Python, Pandas, Matplotlib.
 
