@@ -3,6 +3,19 @@
 </div>
 
 <table>
+
+</td>
+<td>
+
+### Finding Heavy Traffic Indicators on I-94
+
+Overview: Determine a indicators of heavy traffic on I-94
+
+**Technologies Used**: Python, Pandas, Matplotlib.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/53)  
+![Project Image](images/53.png)
+
 <tr>
 <td>
 
