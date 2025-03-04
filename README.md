@@ -27,6 +27,19 @@ Overview: Analyze historical EUR exchange rates from 1999 to 2021, focusing on k
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/54)  
 ![Project Image](images/54.png)
 
+</td>
+<td>
+
+### London Weather Forecasting with Prophet, Requests (Open-Meteo API)
+
+Overview: This project **retrieves, processes, and forecasts** daily average temperatures for the last 5 years using **Prophet**. 
+The model accounts for **seasonality, trends, and irregular variations** to provide reliable weather predictions.
+
+**Technologies Used**: Prophet, Matplotlib & Pandas, API Requests, SQLite3.
+
+[View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/52)  
+![Project Image](images/55.png)
+
 <tr>
 <td>
 
