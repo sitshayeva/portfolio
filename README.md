@@ -13,7 +13,7 @@ Overview: Determine an indicator of heavy traffic on I-94
 **Technologies Used**: Python, Pandas, Matplotlib.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/53)  
-<img src="images/53.png" width="300" height="300"/>
+<img src="images/53.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -24,7 +24,7 @@ Overview: Analyze historical EUR exchange rates from 1999 to 2021, focusing on k
 **Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/54)  
-<img src="images/54.png" width="300" height="300"/>
+<img src="images/54.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -37,7 +37,7 @@ The model accounts for **seasonality, trends, and irregular variations** to prov
 **Technologies Used**: Prophet, Matplotlib & Pandas, API Requests, SQLite3.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/52)  
-<img src="images/55.png" width="300" height="300"/>
+<img src="images/55.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ Overview: Ensure the dataset's accuracy, consistency, and reliability by applyin
 **Technologies Used**: Python, Pandas, Great Expectations.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/51)  
-<img src="images/51.png" width="300" height="300"/>
+<img src="images/51.png" width="100" height="100"/>
   
 </td>
 <td>
@@ -62,7 +62,7 @@ Overview: Build a simple, interactive KPI report to track key metrics and explor
 **Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/47)  
-<img src="images/47.png" width="300" height="300"/>
+<img src="images/47.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -74,7 +74,7 @@ Overview: Create an interactive dashboard exploring CO2 emissions, energy consum
 **Technologies Used**: Python, Pandas, PyGWalker, Matplotlib.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/52)  
-<img src="images/52.png" width="300" height="300"/>
+<img src="images/52.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -89,7 +89,7 @@ Overview: Build a custom, interactive tool to help users discover the perfect LE
 **Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/48)  
-<img src="images/48.png" width="300" height="300"/>
+<img src="images/48.png" width="100" height="100"/>
   
 </td>
 <td>
@@ -100,7 +100,7 @@ Overview: Build an interactive dashboard to explore and analyze coffee shop sale
 **Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/49)  
-<img src="images/49.png" width="300" height="300"/>
+<img src="images/49.png" width="100" height="100"/>
   
 </td>
 <td>
@@ -111,7 +111,7 @@ Overview: Create an interactive dashboard showcasing 250 years of CO2 emissions 
 **Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/50)  
-<img src="images/50.png" width="300" height="300"/>
+<img src="images/50.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -125,7 +125,7 @@ Overview: Analyze AirBnB listings in Paris to determine the impact of recent reg
 **Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/44)  
-<img src="images/44.png" width="300" height="300"/>
+<img src="images/44.png" width="100" height="100"/>
   
 </td>
 <td>
@@ -136,7 +136,7 @@ Overview: Analyze order data to identify the most and least popular menu items a
 **Technologies Used**: Python, Pandas, MatplotLib, Seaborn.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/45)  
-<img src="images/45.png" width="300" height="300"/>
+<img src="images/45.png" width="100" height="100"/>
   
 </td>
 <td>
@@ -146,7 +146,7 @@ Overview: Build an interactive dashboard for Sales Managers to track their team'
 **Technologies Used**: Python, Pandas, Seaborn.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/46)  
-<img src="images/46.png" width="300" height="300"/>
+<img src="images/46.png" width="100" height="100"/>
 
 <tr>
 <td>
@@ -157,7 +157,7 @@ Overview: Market Basket Analysis project based on "The Bread Basket" dataset to 
 **Technologies Used**: Python, Pandas, Seaborn, mlxtend, Pyvis.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/43)  
-<img src="images/43.png" width="300" height="300"/>
+<img src="images/43.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -168,7 +168,7 @@ Overview: Diabetes Prediction ML Project using PySpark.
 **Technologies Used**: PySpark.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/42)  
-<img src="images/42.png" width="300" height="300"/>
+<img src="images/42.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -179,7 +179,7 @@ Overview: Visualization of iTunes podcast reviews using interactive dashboards.
 **Technologies Used**: Tableau.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/41)  
-<img src="images/41.png" width="300" height="300"/>
+<img src="images/41.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -200,7 +200,7 @@ Overview: Clustering customer data to identify distinct groups for targeted mark
 **Technologies Used**: Python, K-means clustering algorithm.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/30)  
-<img src="images/30.png" width="300" height="300"/>
+<img src="images/30.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -211,7 +211,7 @@ Overview: Using decision trees for predictive modeling in KNIME.
 **Technologies Used**: KNIME.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/31)  
-<img src="images/31_1.png" width="300" height="300"/> <img src="images/31_2.png" width="300" height="300"/>
+<img src="images/31_1.png" width="100" height="100"/> <img src="images/31_2.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -222,7 +222,7 @@ Overview: Analyzing a large dataset of movie reviews to determine sentiment tren
 **Technologies Used**: Python, Natural Language Processing.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/32)  
-<img src="images/32.png" width="300" height="300"/>
+<img src="images/32.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -235,7 +235,7 @@ Overview: Building a collaborative filtering system to recommend products to use
 **Technologies Used**: Python, Machine Learning.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/35)  
-<img src="images/35.png" width="300" height="300"/>
+<img src="images/35.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -246,7 +246,7 @@ Overview: Utilizing the K-Nearest Neighbors algorithm to create a book recommend
 **Technologies Used**: Python, K-Nearest Neighbors.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/37)  
-<img src="images/37.png" width="300" height="300"/>
+<img src="images/37.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -257,7 +257,7 @@ Overview: Performing sentiment analysis on Amazon customer reviews to gauge cons
 **Technologies Used**: Python, Natural Language Processing.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/33)  
-<img src="images/33.png" width="300" height="300"/>
+<img src="images/33.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -270,7 +270,7 @@ Overview: Building an image classification model using TensorFlow and Keras.
 **Technologies Used**: TensorFlow, Keras.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/36)  
-<img src="images/36.png" width="300" height="300"/>
+<img src="images/36.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -281,7 +281,7 @@ Overview: Creating a health costs prediction model using linear regression.
 **Technologies Used**: Python, Linear Regression.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/38)  
-<img src="images/38.png" width="300" height="300"/>
+<img src="images/38.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -292,7 +292,7 @@ Overview: Developing a text classification system using neural networks to categ
 **Technologies Used**: Python, Neural Networks.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/39)  
-<img src="images/39.png" width="300" height="300"/>
+<img src="images/39.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -308,7 +308,7 @@ Overview: Analyzing Yelp reviews to extract business insights through sentiment 
 **Technologies Used**: Python, Natural Language Processing.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/15)  
-<img src="images/15.png" width="300" height="300"/>
+<img src="images/15.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -319,7 +319,7 @@ Overview: Developing interactive data visualizations using Streamlit to enable d
 **Technologies Used**: Streamlit, Python.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/18)  
-<img src="images/18_1.png" width="300" height="300"/> <img src="images/18_2.png" width="300" height="300"/>
+<img src="images/18_1.png" width="100" height="100"/> <img src="images/18_2.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -330,7 +330,7 @@ Overview: Extracting and analyzing sentiment from British Airways customer revie
 **Technologies Used**: Python, Web Scraping, Natural Language Processing.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/24)  
-<img src="images/24_1.png" width="300" height="300"/> <img src="images/24_2.png" width="300" height="300"/>
+<img src="images/24_1.png" width="100" height="100"/> <img src="images/24_2.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -343,7 +343,7 @@ Overview: Building a Streamlit application that incorporates dynamic filters for
 **Technologies Used**: Streamlit, Python.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/19)  
-<img src="images/19_1.png" width="300" height="300"/> <img src="images/19_2.png" width="300" height="300"/>
+<img src="images/19_1.png" width="100" height="100"/> <img src="images/19_2.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -354,7 +354,7 @@ Overview: Using data analysis and machine learning to predict customer behavior 
 **Technologies Used**: Python, Machine Learning Algorithms.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/25)  
-<img src="images/25_1.png" width="300" height="300"/> <img src="images/25_2.png" width="300" height="300"/>
+<img src="images/25_1.png" width="100" height="100"/> <img src="images/25_2.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -365,7 +365,7 @@ Overview: Participating in the Kaggle competition to predict housing prices base
 **Technologies Used**: Python, Machine Learning, Regression Analysis.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/28)  
-<img src="images/28.png" width="300" height="300"/>
+<img src="images/28.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -378,7 +378,7 @@ Overview: Forecasting store sales using time series analysis in a Kaggle competi
 **Technologies Used**: Python, Time Series Analysis, Machine Learning.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/34)  
-<img src="images/34.png" width="300" height="300"/>
+<img src="images/34.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -389,7 +389,7 @@ Overview: Implementing a regression tree to predict outcomes based on a set of i
 **Technologies Used**: Python, Decision Trees.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/29)  
-<img src="images/29.png" width="300" height="300"/>
+<img src="images/29.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -400,7 +400,7 @@ Overview: Analyzing retail data using machine learning to optimize inventory and
 **Technologies Used**: Python, Machine Learning.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/21)  
-<img src="images/21.png" width="300" height="300"/>
+<img src="images/21.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -413,7 +413,7 @@ Overview: Developing a model to detect fraudulent transactions using machine lea
 **Technologies Used**: Python, Scikit-Learn, Snap ML.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/22)  
-<img src="images/22_1.png" width="300" height="300"/> <img src="images/22_2.png" width="300" height="300"/>
+<img src="images/22_1.png" width="100" height="100"/> <img src="images/22_2.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -424,7 +424,7 @@ Overview: Leveraging Hugging Face Transformers for advanced natural language pro
 **Technologies Used**: Python, Hugging Face Transformers.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/23)  
-<img src="images/23_1.png" width="300" height="300"/> <img src="images/23_2.png" width="300" height="300"/>
+<img src="images/23_1.png" width="100" height="100"/> <img src="images/23_2.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -443,7 +443,7 @@ Overview: Automating the exploratory data analysis process using various Python 
 **Technologies Used**: Python, D-Tale, SweetViz, Pandas Profiling.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/26)  
-<img src="images/26.png" width="300" height="300"/>
+<img src="images/26.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -456,7 +456,7 @@ Overview: Implementing both automated and custom machine learning solutions usin
 **Technologies Used**: Python, Scikit-Learn.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/27)  
-<img src="images/27.png" width="300" height="300"/>
+<img src="images/27.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -467,7 +467,7 @@ Overview: Evaluating and improving the quality of a dataset used by a public ser
 **Technologies Used**: Data Quality Assessment.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/4)  
-<img src="images/4.png" width="300" height="300"/>
+<img src="images/4.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -478,7 +478,7 @@ Overview: Designing and implementing a data transformation pipeline using Cloud 
 **Technologies Used**: Cloud Dataprep, Alteryx.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/40)  
-<img src="images/40.png" width="300" height="300"/>
+<img src="images/40.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -494,7 +494,7 @@ Overview: Exploring statistical correlations within datasets using Python.
 **Technologies Used**: Python, Statistical Analysis.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/20)  
-<img src="images/20.png" width="300" height="300"/>
+<img src="images/20.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -505,7 +505,7 @@ Overview: Conducting data exploration and analysis using SQL within the Google C
 **Technologies Used**: SQL, Google Colab.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/17)  
-<img src="images/17.png" width="300" height="300"/>
+<img src="images/17.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -516,7 +516,7 @@ Overview: Demonstrating the use of SQL sub-queries for complex data queries in G
 **Technologies Used**: SQL, Google Colab.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/16)  
-<img src="images/16.png" width="300" height="300"/>
+<img src="images/16.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -529,7 +529,7 @@ Overview: Developing a customized dashboard to meet specific business analysis n
 **Technologies Used**: Dashboard Design, Business Analysis.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/6)  
-<img src="images/6.png" width="300" height="300"/>
+<img src="images/6.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -540,7 +540,7 @@ Overview: Extracting and analyzing user activity data from an online forum using
 **Technologies Used**: SQL, Data Analysis.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/7)  
-<img src="images/7.png" width="300" height="300"/>
+<img src="images/7.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -551,7 +551,7 @@ Overview: Utilizing web APIs to fetch and process movie data stored in JSON form
 **Technologies Used**: Web APIs, JSON, Python.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/2)  
-<img src="images/2.png" width="300" height="300"/>
+<img src="images/2.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -564,7 +564,7 @@ Overview: Analyzing an energy usage dataset to uncover patterns and draw initial
 **Technologies Used**: Data Analysis, Visualization Techniques.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/5)  
-<img src="images/5.png" width="300" height="300"/>
+<img src="images/5.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -575,7 +575,7 @@ Overview: Setting up a web server connected to an Amazon RDS database for handli
 **Technologies Used**: Web Server Management, Amazon RDS.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/3)  
-<img src="images/3.png" width="300" height="300"/>
+<img src="images/3.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -586,7 +586,7 @@ Overview: Conducting comprehensive data analysis using Pandas in conjunction wit
 **Technologies Used**: Pandas, SQLite3, Python.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/14)  
-<img src="images/14.png" width="300" height="300"/>
+<img src="images/14.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -599,7 +599,7 @@ Overview: Analyzing sales data from an e-commerce platform to optimize marketing
 **Technologies Used**: Data Analysis, Business Intelligence.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/8)  
-<img src="images/8.png" width="300" height="300"/>
+<img src="images/8.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -610,7 +610,7 @@ Overview: Performing exploratory data analysis on a dataset of diamonds to under
 **Technologies Used**: Data Visualization, Statistical Analysis.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/9)  
-<img src="images/9.png" width="300" height="300"/>
+<img src="images/9.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -621,7 +621,7 @@ Overview: Cleaning, transforming, and visualizing data from the AirBnB London da
 **Technologies Used**: Data Cleaning, Data Transformation, Data Visualization.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/12)  
-<img src="images/12.png" width="300" height="300"/>
+<img src="images/12.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -634,7 +634,7 @@ Overview: Performing data cleaning on a comprehensive movies dataset to prepare 
 **Technologies Used**: Data Cleaning, Python.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/10)  
-<img src="images/10.png" width="300" height="300"/>
+<img src="images/10.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -645,7 +645,7 @@ Overview: Analyzing short-term rental data from Airbnb in Bristol to understand 
 **Technologies Used**: Data Analysis, Business Intelligence.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/11)  
-<img src="images/11.png" width="300" height="300"/>
+<img src="images/11.png" width="100" height="100"/>
 
 </td>
 <td>
@@ -656,7 +656,7 @@ Overview: Enhancing a movies dataset by cleaning, merging, and transforming data
 **Technologies Used**: Data Cleaning, Data Merging, Data Transformation.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/13)  
-<img src="images/13.png" width="300" height="300"/>
+<img src="images/13.png" width="100" height="100"/>
 
 </td>
 </tr>
@@ -669,7 +669,7 @@ Overview: Conducting exploratory data analysis on a movies dataset to uncover tr
 **Technologies Used**: Data Analysis, Visualization.
 
 [View Project's Files](https://github.com/sitshayeva/portfolio/tree/main/projects/1)  
-<img src="images/1.png" width="300" height="300"/>
+<img src="images/1.png" width="100" height="100"/>
 
 </td>
 </tr>
