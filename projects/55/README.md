@@ -1,4 +1,4 @@
-# London Weather Forecasting with Prophet, Requests (Open-Meteo API)
+# London Weather Forecasting with Prophet (Open-Meteo API)
 
 ## 📌 Project Overview
 This project **retrieves, processes, and forecasts** daily average temperatures for the last 5 years using **Prophet**, an advanced time-series forecasting model developed by Meta (Facebook). The model accounts for **seasonality, trends, and irregular variations** to provide reliable weather predictions.
