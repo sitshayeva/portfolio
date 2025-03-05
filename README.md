@@ -22,7 +22,7 @@ Here are some of my top projects showcasing my expertise across various domains:
 
 ---
 
-## 📂 **[All Projects](https://github.com/sitshayeva/portfolio/projects_list.md)**
+## 📂 [**[All Projects](https://github.com/sitshayeva/portfolio/projects_list.md)**](https://github.com/sitshayeva/portfolio/blob/main/projects_list.md)
 
 ### 📊 **Data Science & Machine Learning**
 - **[Diabetes Prediction ML Project](https://github.com/sitshayeva/portfolio/tree/main/projects/42)** - PySpark model for predicting diabetes.
