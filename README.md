@@ -33,7 +33,7 @@ Here are some of my top projects showcasing my expertise across various domains:
 - **[Image Classifier using TensorFlow & Keras](https://github.com/sitshayeva/portfolio/tree/main/projects/36)** - Developed an image classification model.
 
 ### 📈 **Business Intelligence & Dashboards**
-- **[CRM Sales Dashboard](https://github.com/sitshayeva/portfolio/tree/main/projects/46)** - Interactive sales report in Power BI.
+- **[CRM Sales Dashboard](https://github.com/sitshayeva/portfolio/tree/main/projects/46)** - Interactive sales report.
 - **[Restaurant Order Analysis](https://github.com/sitshayeva/portfolio/tree/main/projects/45)** - Data-driven insights on restaurant orders.
 - **[AirBnB Listing Analysis](https://github.com/sitshayeva/portfolio/tree/main/projects/44)** - Exploratory data analysis on AirBnB dataset.
 - **[Toy Store KPI Report](https://github.com/sitshayeva/portfolio/tree/main/projects/47)** - Retail analytics dashboard.
