@@ -5,17 +5,20 @@ Here are some of my top projects showcasing my expertise across various domains:
 ### 🔹 **London Weather Forecasting with Prophet**  
 🌍 **Description:** Built a time series model to forecast London weather using the Prophet library and Open-Meteo API.  
 🛠 **Tech Stack:** Python, Prophet, Requests, Pandas, Matplotlib  
-🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/55)** | 📸 ![Image](images/55.png)
+🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/55)**  
+![Image](images/55.png){: width="400" height="250"}
 
 ### 🔹 **Indicators of Heavy Traffic on I-94**  
 🚦 **Description:** Analyzed traffic patterns on I-94 to identify congestion indicators.  
 🛠 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
-🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/53)** | 📸 ![Image](images/53.png)
+🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/53)**  
+![Image](images/53.png){: width="400" height="250"}
 
 ### 🔹 **EUR Exchange Rate Trends & Volatility Analysis (1999-2021)**  
 💱 **Description:** Conducted time series analysis on historical EUR exchange rates to identify trends and volatility.  
 🛠 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
-🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/54)** | 📸 ![Image](images/54.png)
+🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/54)**  
+![Image](images/54.png){: width="400" height="250"}
 
 ---
 
