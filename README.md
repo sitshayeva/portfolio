@@ -1,159 +1,50 @@
+## 📌 Featured Projects
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Projects Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
-            margin: 0;
-            padding: 20px;
-        }
-        .header {
-            background-color: #FFC107;
-            padding: 20px;
-            text-align: center;
-            color: #FFF;
-            font-size: 24px;
-            font-weight: bold;
-        }
-        .container {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-            max-width: 1200px;
-            margin: 20px auto;
-        }
-        .project {
-            background: white;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-        .project img {
-            width: 100%;
-            height: 200px;
-            object-fit: cover;
-            border-radius: 5px;
-        }
-        .project h3 {
-            font-size: 18px;
-            margin: 10px 0;
-        }
-        .project p {
-            font-size: 14px;
-            color: #666;
-        }
-        .project a {
-            display: inline-block;
-            margin-top: 10px;
-            text-decoration: none;
-            color: #007bff;
-            font-weight: bold;
-        }
-        @media (max-width: 992px) {
-            .container {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-        @media (max-width: 600px) {
-            .container {
-                grid-template-columns: repeat(1, 1fr);
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="header">DATA PROJECTS</div>
-    <div class="container">
-        
-        <script>
-            const projects = [
-                { title: "Indicators of Heavy Traffic on I-94", image: "53" },
-                { title: "EUR Exchange Rate Trends & Volatility Analysis (1999-2021)", image: "54" },
-                { title: "London Weather Forecasting with Prophet, Requests (Open-Meteo API)", image: "55" },
-                { title: "UK Online Retail Data Quality Validation Project (GX)", image: "51" },
-                { title: "Toy Store KPI Report", image: "47" },
-                { title: "Global CO2 Emissions Interactive Dashboard", image: "52" },
-                { title: "LEGO Set Explorer", image: "48" },
-                { title: "Coffee Shop Dashboard", image: "49" },
-                { title: "Global CO2 Emissions", image: "50" },
-                { title: "AirBnB Listing Analysis", image: "44" },
-                { title: "Restaurant Order Analysis", image: "45" },
-                { title: "CRM Sales Dashboard", image: "46" },
-                { title: "Market Basket Analysis", image: "43" },
-                { title: "PySpark Diabetes Prediction ML Project", image: "42" },
-                { title: "iTunes Podcast Reviews Dashboards Tableau", image: "41" },
-                { title: "Customer K-means clustering in Python", image: "30" },
-                { title: "Machine Learning: Decision Tree with KNIME", image: "31_1" },
-                { title: "Machine Learning: Decision Tree with KNIME", image: "31_2" },
-                { title: "NLP Challenge: IMDB Dataset of 50K Movie Reviews to perform Sentiment Analysis", image: "32" },
-                { title: "Recommendation System. Collaborative Filtering", image: "35" },
-                { title: "Book Recommendation Model. K-Nearest Neighbors", image: "37" },
-                { title: "Amazon Customer Reviews Sentiment Analysis", image: "33" },
-                { title: "Image Classifier using TensorFlow. Keras", image: "36" },
-                { title: "Linear Regression Health Costs Calculator", image: "38" },
-                { title: "Neural Network SMS Text Classifier", image: "39" },
-                { title: "Sentiment Analysis of Yelp Business Reviews", image: "15" },
-                { title: "Using Streamlit for Data Visualisation", image: "18_1" },
-                { title: "Using Streamlit for Data Visualisation", image: "18_2" },
-                { title: "WEB scraping and Sentiment Analysis British Airways Customer Reviews", image: "24_1" },
-                { title: "WEB scraping and Sentiment Analysis British Airways Customer Reviews", image: "24_2" },
-                { title: "Creating Dynamic Filters in Streamlit", image: "19_1" },
-                { title: "Creating Dynamic Filters in Streamlit", image: "19_2" },
-                { title: "Predicting Customer Behaviour British Airways", image: "25_1" },
-                { title: "Predicting Customer Behaviour British Airways", image: "25_2" },
-                { title: "Kaggle Housing Prices Competition", image: "28" },
-                { title: "Kaggle Store Sales - Time Series Forecasting", image: "34" }
-            ];
-            
-            projects.forEach(proj => {
-                document.write(`
-                    <div class="project">
-                        <img src="images/${proj.image}.png" alt="Project Image">
-                        <h3>${proj.title}</h3>
-                    </div>
-                `);
-            });
-        </script>
-        
-    </div>
-</body>
-</html>
+Here are some of my top projects showcasing my expertise across various domains:
 
+### 🔹 **London Weather Forecasting with Prophet**  
+🌍 **Description:** Built a time series model to forecast London weather using the Prophet library and Open-Meteo API.  
+🛠 **Tech Stack:** Python, Prophet, Requests, Pandas, Matplotlib  
+🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/55)** | 📸 ![Image](images/55.png)
 
+### 🔹 **Indicators of Heavy Traffic on I-94**  
+🚦 **Description:** Analyzed traffic patterns on I-94 to identify congestion indicators.  
+🛠 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
+🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/53)** | 📸 ![Image](images/53.png)
 
+### 🔹 **EUR Exchange Rate Trends & Volatility Analysis (1999-2021)**  
+💱 **Description:** Conducted time series analysis on historical EUR exchange rates to identify trends and volatility.  
+🛠 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
+🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/54)** | 📸 ![Image](images/54.png)
 
+---
 
+## 📂 All Projects
 
+### 📊 **Data Science & Machine Learning**
+- **[Diabetes Prediction ML Project](https://github.com/sitshayeva/portfolio/tree/main/projects/42)** - PySpark model for predicting diabetes.
+- **[NLP Challenge: IMDB Sentiment Analysis](https://github.com/sitshayeva/portfolio/tree/main/projects/32)** - Analyzed IMDB reviews using NLP.
+- **[Recommendation System: Collaborative Filtering](https://github.com/sitshayeva/portfolio/tree/main/projects/35)** - Built a collaborative filtering-based recommender.
+- **[Amazon Customer Reviews Sentiment Analysis](https://github.com/sitshayeva/portfolio/tree/main/projects/33)** - Performed sentiment analysis on Amazon reviews.
+- **[Image Classifier using TensorFlow & Keras](https://github.com/sitshayeva/portfolio/tree/main/projects/36)** - Developed an image classification model.
 
+### 📈 **Business Intelligence & Dashboards**
+- **[CRM Sales Dashboard](https://github.com/sitshayeva/portfolio/tree/main/projects/46)** - Interactive sales report in Power BI.
+- **[Restaurant Order Analysis](https://github.com/sitshayeva/portfolio/tree/main/projects/45)** - Data-driven insights on restaurant orders.
+- **[AirBnB Listing Analysis](https://github.com/sitshayeva/portfolio/tree/main/projects/44)** - Exploratory data analysis on AirBnB dataset.
+- **[Toy Store KPI Report](https://github.com/sitshayeva/portfolio/tree/main/projects/47)** - Retail analytics dashboard.
 
+### 📊 **Time Series & Forecasting**
+- **[London Weather Forecasting with Prophet](https://github.com/sitshayeva/portfolio/tree/main/projects/55)** - Weather trend forecasting.
+- **[Kaggle Store Sales - Time Series Forecasting](https://github.com/sitshayeva/portfolio/tree/main/projects/34)** - Sales prediction using time series models.
+- **[EUR Exchange Rate Trends & Volatility Analysis](https://github.com/sitshayeva/portfolio/tree/main/projects/54)** - Analyzing currency fluctuations over 22 years.
 
+### 🏗 **Data Engineering & Pipelines**
+- **[Data Transformation Pipeline with Cloud Dataprep](https://github.com/sitshayeva/portfolio/tree/main/projects/40)** - Data engineering using Alteryx.
+- **[Auto Exploratory Data Analysis](https://github.com/sitshayeva/portfolio/tree/main/projects/26)** - Automated EDA using D-Tale and SweetViz.
+- **[Create a Web Server and an Amazon RDS DB Instance](https://github.com/sitshayeva/portfolio/tree/main/projects/3)** - Setting up cloud-based databases.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 🔍 **Data Cleaning & Exploratory Data Analysis**
+- **[Exploratory Data Analysis on Diamonds Dataset](https://github.com/sitshayeva/portfolio/tree/main/projects/9)** - Understanding trends in the diamond industry.
+- **[Data Cleaning on Movies Dataset](https://github.com/sitshayeva/portfolio/tree/main/projects/10)** - Data preprocessing and wrangling.
+- **[Short-Term Rental Analytics on AirBnB Bristol](https://github.com/sitshayeva/portfolio/tree/main/projects/11)** - Analyzing rental trends and pricing models.
