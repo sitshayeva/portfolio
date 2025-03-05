@@ -1,3 +1,6 @@
+
+---
+
 ## 📌 Featured Projects
 
 Here are some of my top projects showcasing my expertise across various domains:
