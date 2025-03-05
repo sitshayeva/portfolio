@@ -1,26 +1,49 @@
 | **Indicators of Heavy Traffic on I-94** | ![Image](images/53.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/53) |
+
 | **EUR Exchange Rate Trends & Volatility Analysis (1999-2021)** | ![Image](images/54.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/54) |
+
 | **London Weather Forecasting with Prophet, Requests (Open-Meteo API)** | ![Image](images/55.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/55) |
+
 | **UK Online Retail Data Quality Validation Project (GX)** | ![Image](images/51.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/51) |
+
 | **Toy Store KPI Report** | ![Image](images/47.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/47) |
+
 | **Global CO2 Emissions Interactive Dashboard** | ![Image](images/52.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/52) |
+
 | **LEGO Set Explorer** | ![Image](images/48.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/48) |
+
 | **Coffee Shop Dashboard** | ![Image](images/49.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/49) |
+
 | **Global CO2 Emissions** | ![Image](images/50.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/50) |
+
 | **AirBnB Listing Analysis** | ![Image](images/44.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/44) |
+
 | **Restaurant Order Analysis** | ![Image](images/45.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/45) |
+
 | **CRM Sales Dashboard** | ![Image](images/46.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/46) |
+
 | **Market Basket Analysis** | ![Image](images/43.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/43) |
+
 | **PySpark Diabetes Prediction ML Project** | ![Image](images/42.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/42) |
+
 | **iTunes Podcast Reviews Dashboards Tableau** | ![Image](images/41.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/41) |
+
 | **Customer K-means clustering in Python** | ![Image](images/30.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/30) |
+
 | **Machine Learning: Decision Tree with KNIME** | ![Image](images/31_1.png) ![Image](images/31_2.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/31) |
+
 | **NLP Challenge: IMDB Dataset of 50K Movie Reviews Sentiment Analysis** | ![Image](images/32.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/32) |
+
 | **Recommendation System: Collaborative Filtering** | ![Image](images/35.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/35) |
+
 | **Book Recommendation Model: K-Nearest Neighbors** | ![Image](images/37.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/37) |
+
 | **Amazon Customer Reviews Sentiment Analysis** | ![Image](images/33.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/33) |
+
 | **Image Classifier using TensorFlow & Keras** | ![Image](images/36.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/36) |
+
 | **Linear Regression Health Costs Calculator** | ![Image](images/38.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/38) |
+
 | **Neural Network SMS Text Classifier** | ![Image](images/39.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/39) |
 | **Sentiment Analysis of Yelp Business Reviews** | ![Image](images/15.png) | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/15) |
 | **Using Streamlit for Data Visualisation** | ![Image](images/18_1.png) ![Image](images/18_2.png)| [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/18) |
