@@ -1,20 +1,14 @@
 | **Indicators of Heavy Traffic on I-94** | <img src="images/53.png" width="400" height="250"> | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/53) |
 
-
 | **EUR Exchange Rate Trends & Volatility Analysis (1999-2021)** | <img src="images/54.png" width="400" height="250"> | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/54) |
-
 
 | **London Weather Forecasting with Prophet, Requests (Open-Meteo API)** | <img src="images/55.png" width="400" height="250"> | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/55) |
 
-
 | **UK Online Retail Data Quality Validation Project (GX)** | <img src="images/51.png" width="400" height="250"> | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/51) |
-
 
 | **Toy Store KPI Report** | <img src="images/47.png" width="400" height="250"> | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/47) |
 
-
 | **Global CO2 Emissions Interactive Dashboard** | <img src="images/52.png" width="400" height="250"> | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/52) |
-
 
 | **LEGO Set Explorer** | <img src="images/48.png" width="400" height="250"> | [Project](https://github.com/sitshayeva/portfolio/tree/main/projects/48) |
 
