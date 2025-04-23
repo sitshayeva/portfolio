@@ -1,5 +1,8 @@
 # A/B Test Dashboard – E-Commerce - Landing Page
 
+[<img src="https://github.com/sitshayeva/portfolio/blob/main/images/60.png" width="400" height="250">](https://huggingface.co/spaces/lenaras/ab_test_analysis_ecommerce_landing_page)
+
+
 **Streamlit Application:** https://huggingface.co/spaces/lenaras/ab_test_analysis_ecommerce_landing_page
 
 ## 🧠 Key Questions
