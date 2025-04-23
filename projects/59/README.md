@@ -1,5 +1,6 @@
 # 🎯 Marketing A/B Campaign Scorer
 
+![](https://github.com/sitshayeva/portfolio/blob/main/images/59.png)
 
 
 An interactive Streamlit dashboard for analyzing and optimizing marketing A/B campaigns through personalized targeting strategies.  
