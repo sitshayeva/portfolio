@@ -8,6 +8,12 @@ Here are some of my top projects showcasing my expertise across various domains:
 🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/55)**  
 <img src="images/55.png" width="400" height="250">
 
+### 🔹 **Maven Music Cancellation Predictor**  
+🎵 **Description:** Predicted customer churn for a music streaming service using listening behavior and subscription history. Deployed as an interactive Streamlit app.  
+🛠 **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit, Seaborn  
+🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/57)**  
+<img src="images/57.png" width="400" height="250">
+
 ### 🔹 **Indicators of Heavy Traffic on I-94**  
 🚦 **Description:** Analyzed traffic patterns on I-94 to identify congestion indicators.  
 🛠 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
