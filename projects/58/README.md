@@ -1,6 +1,8 @@
 
 **A/B Testing Campaign Analysis – Execution Report**
 
+**Streamlit Application:**  https://huggingface.co/spaces/lenaras/ab_testing_campaign_analysis
+
 **Objective:**  
 Evaluate two campaign strategies (Control and Test) based on key marketing metrics to determine which yields higher returns, better conversions, and more efficient user engagement.
 
