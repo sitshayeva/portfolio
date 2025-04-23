@@ -1,6 +1,6 @@
 # 🎯 Marketing A/B Campaign Scorer
 
-<img src="images/59.png" width="400" height="250">
+<img src="portfolio/images/59.png" width="400" height="250">
 
 An interactive Streamlit dashboard for analyzing and optimizing marketing A/B campaigns through personalized targeting strategies.  
 Hosted live at: 👉 [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/lenaras/Marketing-AB-Campaign-Scorer)
