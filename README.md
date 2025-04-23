@@ -53,7 +53,7 @@ Here are some of my top projects showcasing my expertise across various domains:
 
 ### 📊 **A/B Testing, Statistical Analysis**
 - **[Marketing A/B Campaign Scorer](https://github.com/sitshayeva/portfolio/tree/main/projects/59)** - Streamlit app to segment users by ad exposure and predict conversion likelihood for optimized campaign targeting.
-- **[A/B Test Analysis – E-Commerce Landing Page](https://github.com/yourusername/portfolio/tree/main/projects/60)** – End-to-end A/B test analysis of an e-commerce landing page experiment.
+- **[A/B Test Analysis – E-Commerce Landing Page](https://github.com/sitshayeva/portfolio/tree/main/projects/60)** – End-to-end A/B test analysis of an e-commerce landing page experiment.
 
 
 ### 📈 **Business Intelligence & Dashboards**
