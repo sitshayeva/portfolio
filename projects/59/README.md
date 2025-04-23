@@ -1,12 +1,3 @@
----
-title: Marketing A/B Campaign Scorer
-emoji: 🎯
-colorFrom: green
-colorTo: blue
-sdk: streamlit
-app_file: app.py
----
-
 # 🎯 Marketing A/B Campaign Scorer
 
 An interactive Streamlit dashboard for analyzing and optimizing marketing A/B campaigns through personalized targeting strategies.  
