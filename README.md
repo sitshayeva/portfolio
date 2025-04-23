@@ -50,7 +50,9 @@ Here are some of my top projects showcasing my expertise across various domains:
 - **[Amazon Customer Reviews Sentiment Analysis](https://github.com/sitshayeva/portfolio/tree/main/projects/33)** - Performed sentiment analysis on Amazon reviews.
 - **[Image Classifier using TensorFlow & Keras](https://github.com/sitshayeva/portfolio/tree/main/projects/36)** - Developed an image classification model.
 
+
 ### 📊 **A/B Testing, Statistical Analysis**
+- **[Marketing A/B Campaign Scorer](https://github.com/sitshayeva/portfolio/tree/main/projects/59)** - Streamlit app to segment users by ad exposure and predict conversion likelihood for optimized campaign targeting.
 
 
 
