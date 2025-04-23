@@ -22,7 +22,7 @@ Here are some of my top projects showcasing my expertise across various domains:
 
 ### 🔹 **Rotten Tomatoes Movie Ratings Explorer**  
 🍅 **Description:** Interactive app and analysis exploring critic and audience ratings of popular movies (2010–Present) using Rotten Tomatoes data.  
-🛠 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Altair, Streamlit  
+🛠 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Streamlit  
 🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/56)**  
 <img src="images/56.png" width="400" height="250">
 
