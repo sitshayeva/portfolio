@@ -1,5 +1,7 @@
 # 🎯 Marketing A/B Campaign Scorer
 
+
+
 An interactive Streamlit dashboard for analyzing and optimizing marketing A/B campaigns through personalized targeting strategies.  
 Hosted live at: 👉 [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/lenaras/Marketing-AB-Campaign-Scorer)
 
@@ -47,32 +49,6 @@ Built with `XGBoost`, `pandas`, and `Streamlit`, the dashboard uses exposure-awa
 1. Upload or simulate user data using sliders and dropdowns.
 2. The model calculates the **predicted conversion probability**.
 3. Based on exposure level, the dashboard recommends **Target** or **Hold**.
-
----
-
-## 📦 Local Installation
-
-```bash
-git clone https://huggingface.co/spaces/lenaras/Marketing-AB-Campaign-Scorer
-cd Marketing-AB-Campaign-Scorer
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
-
-## 🖼️ Screenshot
-
-![Dashboard Screenshot](https://huggingface.co/spaces/lenaras/Marketing-AB-Campaign-Scorer/resolve/main/app_screenshot.png)
-
----
-
-## 📄 Files in This Space
-
-- `app.py`: Streamlit interface
-- `requirements.txt`: Package list
-- `README.md`: Project overview
-- `marketing_AB.csv`: Your dataset (must be uploaded manually)
 
 ---
 
