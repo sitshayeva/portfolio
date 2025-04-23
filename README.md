@@ -14,6 +14,12 @@ Here are some of my top projects showcasing my expertise across various domains:
 🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/57)**  
 <img src="images/57.png" width="400" height="250">
 
+### 🔹 **A/B Testing Campaign Analysis**  
+📈 **Description:** Conducted a comprehensive A/B test comparing two digital ad campaigns (Control vs. Test) using conversion funnels, ROAS, statistical testing, and clustering.  
+🛠 **Tech Stack:** Python, Pandas, Seaborn, Scikit-learn, Matplotlib  
+🔗 **[View Project](https://github.com/sitshayeva/portfolio/tree/main/projects/58)**  
+<img src="images/58.png" width="400" height="250">
+
 ### 🔹 **Indicators of Heavy Traffic on I-94**  
 🚦 **Description:** Analyzed traffic patterns on I-94 to identify congestion indicators.  
 🛠 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
